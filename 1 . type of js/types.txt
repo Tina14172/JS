@@ -1,0 +1,16 @@
+type of JS :
+1 . Inline JS
+     -  It's  written in a tag.
+
+2 . Internal JS
+     -  in a BODY or in a HEAD Tag
+     <script>
+        code
+     </script>
+
+3 . External JS :
+     - in a  BODY or in a HEAD Tag
+     - Link a New File
+        new file : save with '.js' Extansion
+
+        

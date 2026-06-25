@@ -1,0 +1,24 @@
+Introduction of JS.
+   ES5 + ES6
+
+   ES9
+   ES10-13
+
+Console Screen :-
+    Methods :
+        log , error , warn , time , timeEnd , table
+
+Main  Screen :
+    - DOM : 
+        Document object Modal
+
+Text :
+    1 . UPPERCASE
+    2 . lowercase
+    3 . Hello Everyone (Capitalize)
+    4 . first_name (snake case)
+    5 . firstName (CamelCase) HelloEveryOne
+
+
+arr[]  = {p.para1 , span.para1}
+arr[0]
