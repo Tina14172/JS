@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+img{
+    margin-left: 370px;
+    margin-top: 50px;
+
+}
+.box img{
+    width: 800px;
+    height: 500px;
+}
+.btn{
+    margin-left: 720px;
+   
+}
+.btn-1{
+    width: 50px;
+    height: 20px;
+    margin-left: 20px;
+}
+.btn-2{
+    width: 50px;
+    height: 20px;
+}

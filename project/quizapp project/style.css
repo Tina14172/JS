@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2D2B55;
+}
+.btn{
+    background-color: #667EEA;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
