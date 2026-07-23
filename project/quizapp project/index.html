@@ -1,30 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>JavaScript Quiz</title>
 </head>
-<body>
-    <main>
-        <button class="btn"><span>01</span> : <span>00</span></button>
 
-    </main>
-    <main>
-        <section>
-            <h2>What is JavaScript?</h2>
-            <article>
-                <aside>
-                    <input type="radio"><label for="">Programming Language</label>
-                    <input type="radio"><label for="">Programming Language</label>
-                    <input type="radio"><label for="">Programming Language</label>
-                    <input type="radio"><label for="">Programming Language</label>
-                </aside>
-            </article>
-        </section>
-    </main>
+<body>
+
+    <div class="start">
+        <button class="start-btn">Start</button>
+    </div>
+
+    <div class="wrapper none">
+
+        <main class="timer">
+            <span>1</span>:<span>00</span>
+        </main>
+
+        <main>
+
+            <form id="quiz-form">
+
+
+            </form>
+
+        </main>
+
+        <main class="allbtn">
+            <button type="button" class="btn pre previous-btn no-curser">Previous</button>
+
+            <button type="submit" form="quiz-form" class="submit-btn none"> Submit </button>
+
+            <button type="button" class="btn next next-btn"> Next </button>
+
+        </main>
+
+        
+
+    </div>
+
+    
+    <main class="footer none"></main>
 
     <script src="script.js"></script>
+
 </body>
+
 </html>
